@@ -6,4 +6,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ## Commands
 - `:Mason` to install LSP, lints and formatters
 - `:WakaTimeApiKey` to put the API Key from [wakatime](https://wakatime.com/settings/api-key)
-
+- `:Codeium Auth` to put the API Key from [codeium](https://codeium.com)
